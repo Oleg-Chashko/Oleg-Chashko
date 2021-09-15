@@ -7,26 +7,26 @@
 
 ### Projects 💡
 
-- [**_`SSToolkit - Toolkit for managing your Mac`_**](https://github.com/Oleg-Chashko/SSToolkit)
+- [**_`SSToolbox - Toolkit for managing your Mac`_**](https://github.com/Oleg-Chashko/SSToolbox)
 
 <p align="left">
-  <a href="https://github.com/Oleg-Chashko/SSToolkit/releases/latest">
-  <img alt="Latest stable release" src="https://img.shields.io/github/release/Oleg-Chashko/SSToolkit.svg?style=flat" />
+  <a href="https://github.com/Oleg-Chashko/SSToolbox/releases/latest">
+  <img alt="Latest stable release" src="https://img.shields.io/github/release/Oleg-Chashko/SSToolbox.svg?style=flat" />
 </a>
-  <a href="https://github.com/Oleg-Chashko/SSToolkit/releases/latest">
-  <img alt="Download count" src="https://img.shields.io/github/downloads/Oleg-Chashko/SSToolkit/total.svg?style=flat" />
+  <a href="https://github.com/Oleg-Chashko/SSToolbox/releases/latest">
+  <img alt="Download count" src="https://img.shields.io/github/downloads/Oleg-Chashko/SSToolbox/total.svg?style=flat" />
 </a>
-  <a href="https://github.com/Oleg-Chashko/SSToolkit/commits">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Oleg-Chashko/SSToolkit.svg?style=flat" />
+  <a href="https://github.com/Oleg-Chashko/SSToolbox/commits">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Oleg-Chashko/SSToolbox.svg?style=flat" />
 </a>
-  <a href="https://github.com/Oleg-Chashko/SSToolkit/issues">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Oleg-Chashko/SSToolkit.svg?style=flat" />
+  <a href="https://github.com/Oleg-Chashko/SSToolbox/issues">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Oleg-Chashko/SSToolbox.svg?style=flat" />
 </a>
-  <a href="https://github.com/Oleg-Chashko/SSToolkit/stargazers">
-  <img alt="Stars" src="https://img.shields.io/github/stars/Oleg-Chashko/SSToolkit.svg?style=flat" />
+  <a href="https://github.com/Oleg-Chashko/SSToolbox/stargazers">
+  <img alt="Stars" src="https://img.shields.io/github/stars/Oleg-Chashko/SSToolbox.svg?style=flat" />
 </a>
-  <a href="https://github.com/Oleg-Chashko/SSToolkit/network/members">
-  <img alt="Forks" src="https://img.shields.io/github/forks/Oleg-Chashko/SSToolkit.svg?style=flat" />
+  <a href="https://github.com/Oleg-Chashko/SSToolbox/network/members">
+  <img alt="Forks" src="https://img.shields.io/github/forks/Oleg-Chashko/SSToolbox.svg?style=flat" />
 </a>
 </p>
 

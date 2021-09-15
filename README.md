@@ -88,9 +88,9 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-4A4A55?style=flat&logo=visual-studio-code&logoColor=0092cb" />
 </p>
 
-### Let's connect ? 🤝
+<!-- ### Let's connect ? 🤝 -->
 
-- E-mail: <family.chashko@outlook.com>
+<!-- - E-mail: <family.chashko@outlook.com> -->
 
 ### Analytics ⚙️
 

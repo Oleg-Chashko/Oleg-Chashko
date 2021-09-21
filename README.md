@@ -30,29 +30,6 @@
 </a>
 </p>
 
-- [**_`SSUninstaller - Uninstallation of macOS applications`_**](https://github.com/Oleg-Chashko/SSUninstaller)
-
-<p align="left">
-  <a href="https://github.com/Oleg-Chashko/SSUninstaller/releases/latest">
-  <img alt="Latest stable release" src="https://img.shields.io/github/release/Oleg-Chashko/SSUninstaller.svg?style=flat" />
-</a>
-  <a href="https://github.com/Oleg-Chashko/SSUninstaller/releases/latest">
-  <img alt="Download count" src="https://img.shields.io/github/downloads/Oleg-Chashko/SSUninstaller/total.svg?style=flat" />
-</a>
-  <a href="https://github.com/Oleg-Chashko/SSUninstaller/commits">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Oleg-Chashko/SSUninstaller.svg?style=flat" />
-</a>
-  <a href="https://github.com/Oleg-Chashko/SSUninstaller/issues">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Oleg-Chashko/SSUninstaller.svg?style=flat" />
-</a>
-  <a href="https://github.com/Oleg-Chashko/SSUninstaller/stargazers">
-  <img alt="Stars" src="https://img.shields.io/github/stars/Oleg-Chashko/SSUninstaller.svg?style=flat" />
-</a>
-  <a href="https://github.com/Oleg-Chashko/SSUninstaller/network/members">
-  <img alt="Forks" src="https://img.shields.io/github/forks/Oleg-Chashko/SSUninstaller.svg?style=flat" />
-</a>
-</p>
-
 - [**_`Germany at Night - Dark themes for Visual Studio Code`_**](https://github.com/Oleg-Chashko/Germany-at-Night)
 
 <p align="left">

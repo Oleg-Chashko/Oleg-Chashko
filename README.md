@@ -63,6 +63,7 @@
   <img src="https://img.shields.io/badge/MacOS-4A4A55?style=flat&logo=Apple" />
   <img src="https://img.shields.io/badge/Linux-4A4A55?style=flat&logo=Linux" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-4A4A55?style=flat&logo=visual-studio-code&logoColor=0092cb" />
+  <img src="https://img.shields.io/badge/Xcode-4A4A55?style=flat&logo=Xcode" />
 </p>
 
 <!-- ### Let's connect ? 🤝 -->

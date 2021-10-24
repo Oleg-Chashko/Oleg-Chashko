@@ -74,7 +74,6 @@
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=oleg-chashko&column=6&row=1" height="113em" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Oleg-Chashko&bg_color=ffffff&color=000000&line=3ab982&point=03d3d&area=true&hide_border=true" height="237em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oleg-Chashko&theme=vue" height="197em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oleg-Chashko&theme=vue" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Oleg-Chashko&theme=vue" />

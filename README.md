@@ -66,10 +66,6 @@
   <img src="https://img.shields.io/badge/Xcode-4A4A55?style=flat&logo=Xcode" />
 </p>
 
-<!-- ### Let's connect ? 🤝 -->
-
-<!-- - E-mail: <family.chashko@outlook.com> -->
-
 ### Analytics ⚙️
 
 <p align="left">

@@ -41,7 +41,7 @@
 </a>
 </p>
 
-### Languages & Tools 🛠
+### Languages and Tools 🛠
 
 <p align="left">
   <img src="https://img.shields.io/badge/Shell_Script-4A4A55?style=flat&logo=Gnu-bash" />

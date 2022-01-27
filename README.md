@@ -1,10 +1,5 @@
 ## Hello, Oleg Chashko's Github Page
 
-- I am a passionate person who is always willing to learn and work in different technologies and fields.
-- I like to learn new technologies and use them to solve real problems.
-- Bug Finding and Scripting - is a fun thing for me to do.
-<!-- - I'm a 🇺🇦 living in 🇩🇪 and working at [Unitymedia/Vodafone](https://www.vodafone.de/). -->
-
 ### Projects 💡
 
 - [**_`SSToolbox - Toolkit for managing your Mac`_**](https://github.com/Oleg-Chashko/SSToolbox)

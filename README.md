@@ -19,43 +19,11 @@
 </a>
 </p>
 
-- [**_`Germany at Night - Dark themes for Visual Studio Code`_**](https://github.com/Oleg-Chashko/Germany-at-Night)
-
-<p align="left">
-  <a href="https://github.com/Oleg-Chashko/Germany-at-Night/releases/latest">
-  <img alt="Latest stable release" src="https://img.shields.io/github/release/Oleg-Chashko/Germany-at-Night.svg?style=flat" />
-</a>
-  <a href="https://github.com/Oleg-Chashko/Germany-at-Night/releases/latest">
-  <img alt="Download count" src="https://img.shields.io/github/downloads/Oleg-Chashko/Germany-at-Night/total.svg?style=flat" />
-</a>
-  <a href="https://github.com/Oleg-Chashko/Germany-at-Night/commits">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Oleg-Chashko/Germany-at-Night.svg?style=flat" />
-</a>
-  <a href="https://github.com/Oleg-Chashko/Germany-at-Night/issues">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Oleg-Chashko/Germany-at-Night.svg?style=flat" />
-</a>
-</p>
-
-### Languages and Tools 🛠
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Shell_Script-4A4A55?style=flat&logo=Gnu-bash" />
-  <img src="https://img.shields.io/badge/JSON-4A4A55?style=flat&logo=JavaScript" />
-  <img src="https://img.shields.io/badge/Markdown-4A4A55?style=flat&logo=Markdown" />
-  <img src="https://img.shields.io/badge/Sketch-4A4A55?style=flat&logo=Sketch" />
-  <img src="https://img.shields.io/badge/MacOS-4A4A55?style=flat&logo=Apple" />
-  <img src="https://img.shields.io/badge/Linux-4A4A55?style=flat&logo=Linux" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-4A4A55?style=flat&logo=visual-studio-code&logoColor=0092cb" />
-</p>
-
 ### Analytics ⚙️
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Oleg-Chashko&column=6&row=1" height="113em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oleg-Chashko&theme=vue" height="197em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oleg-Chashko&theme=vue" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Oleg-Chashko&theme=vue" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oleg-Chashko&theme=vue" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oleg-Chashko&theme=vue" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Oleg-Chashko&theme=vue" height="268em" />
 </p>

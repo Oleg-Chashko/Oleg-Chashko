@@ -20,10 +20,10 @@
 </p>
 
 ### Analytics ⚙️
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oleg-Chashko&column=6&row=1" height="113em" />
+</p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oleg-Chashko&theme=vue" height="197em" />
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oleg-Chashko&theme=vue" />
+</a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oleg-Chashko&theme=vue" />
 </p>

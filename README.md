@@ -17,5 +17,5 @@
 
 ### Analytics ⚙️
 </p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oleg-Chashko&theme=github_dark" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oleg-Chashko&theme=transparent" /></a>
 </p>

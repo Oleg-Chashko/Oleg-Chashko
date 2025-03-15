@@ -2,13 +2,13 @@
 
 <!-- 1.Project -->
 
-<img width="160" height="160"
-  src="https://raw.githubusercontent.com/Oleg-Chashko/SSToolbox/main/Images/SSToolbox_logo.png" align="left" /></a>
-  [***_`SSToolbox - Toolkit for managing your macOS`_***](https://github.com/Oleg-Chashko/SSToolbox)
-<div>A GUI for using Shell script to tweaks, privacy and usability of macOS.</div>
-<div>Gatekeeper configuration, network testing, application uninstallation.</div>
+<img width="160" height="160" src="https://raw.githubusercontent.com/Oleg-Chashko/SSToolbox/main/Images/SSToolbox_logo.png" align="left"/></a>
+  <a href="https://github.com/Oleg-Chashko/SSToolbox">&#8680; SSToolbox - Toolkit for managing your macOS</a>
 <p>
-
+  <div>A GUI for using Shell script to tweaks, privacy and usability of macOS.</div>
+  <div>Gatekeeper configuration, network testing, application uninstallation.</div>
+<p>
+  
   <!-- Status badges -->
 
 <p align="left">
@@ -45,11 +45,11 @@
 
 <!-- 2.Project -->
 
-<!-- <img width="160" height="160"
-  src="https://raw.githubusercontent.com/Oleg-Chashko/SSToolbox/main/Images/SSToolbox_logo.png" align="left" /></a>
-  [***_`SSToolbox - Toolkit for managing your macOS`_***](https://github.com/Oleg-Chashko/SSToolbox)
-<div>A GUI for using Shell script to tweaks, privacy and usability of macOS.</div>
-<div>Gatekeeper configuration, network testing, application uninstallation.</div>
+<!-- <img width="160" height="160" src="https://raw.githubusercontent.com/Oleg-Chashko/SSToolbox/main/Images/SSToolbox_logo.png" align="left"/></a>
+  <a href="https://github.com/Oleg-Chashko/SSToolbox">&#8680; SSToolbox - Toolkit for managing your macOS</a>
+<p>
+  <div>A GUI for using Shell script to tweaks, privacy and usability of macOS.</div>
+  <div>Gatekeeper configuration, network testing, application uninstallation.</div>
 <p>
 
 <!-- Status badges -->

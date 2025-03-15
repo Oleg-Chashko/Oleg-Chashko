@@ -177,9 +177,9 @@
         src="https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black"></a>
 </details>
 
-
-
-<h4 align="center">Visitors count</h4>
-<div align="center">
-  <img width="200" src="https://profile-counter.glitch.me/oleg-chashko/count.svg">
-  </p>
+<details>
+  <summary>Visitors count:</summary>
+  <div align="center">
+    <img alt="oleg-chashko"
+  src="https://komarev.com/ghpvc/?username=oleg-chashko&style=for-the-badge"></a>
+</details>

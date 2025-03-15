@@ -88,17 +88,17 @@
 
 <details>
   <summary>Stats:</summary>
-  <div align="left">
+  <div align="center">
     <img width="700"
       src="https://github-readme-activity-graph.vercel.app/graph?username=Oleg-Chashko&hide_title=true&border_radius=15&bg_color=0b0e14&color=427e87&line=006aff&point=0069fd&area=true&hide_border=true" /></a>
     <p>
-      <img width="720"
+      <img width="730"
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oleg-Chashko&theme=transparent" /></a>
 </details>
 
 <details>
   <summary>Socials:</summary>
-  <div align="left">
+  <div align="center">
     <a href="https://www.vodafone.de/unternehmen.html/">
       <img alt="Website"
         src="https://img.shields.io/badge/Website-3567AD?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -124,7 +124,7 @@
 
 <details>
   <summary>Donating:</summary>
-  <div align="left">
+  <div align="center">
     <a href="https://paypal.com/">
       <img alt="PayPal"
         src="https://img.shields.io/badge/PayPal-3567AD?style=for-the-badge&logo=paypal&logoColor=white"></a>
@@ -140,7 +140,7 @@
 
 <details>
   <summary>Email and Messenger:</summary>
-  <div align="left">
+  <div align="center">
     <a href="mailto:chashko.family@gmail.com">
       <img alt="Gmail"
         src="https://img.shields.io/badge/gmail-3567AD?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -157,7 +157,7 @@
 
 <details>
   <summary>Skills:</summary>
-  <div align="left">
+  <div align="center">
     <a href="https://www.python.org/">
       <img alt="Python"
         src="https://img.shields.io/badge/python-★☆☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white"></a>

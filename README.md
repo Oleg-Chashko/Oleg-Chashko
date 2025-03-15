@@ -117,7 +117,7 @@
       <a href="https://x.com/vodafone_de/">
         <img alt="Twitter"
           src="https://img.shields.io/badge/Twitter-3567AD?style=for-the-badge&logo=x&logoColor=white"></a>
-      <a href="hhttps://www.reddit.com/r/germany/">
+      <a href="https://www.reddit.com/r/germany/">
         <img alt="Reddit"
           src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </details>

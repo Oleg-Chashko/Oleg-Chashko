@@ -181,5 +181,5 @@
 
 <h4 align="center">Visitors count</h4>
 <div align="center">
-  <img width="200" src="https://profile-counter.glitch.me/oleg-chashko/count.svg" />
+  <img width="200" src="https://profile-counter.glitch.me/oleg-chashko/count.svg">
   </p>

@@ -7,8 +7,8 @@
   <div>A GUI for using Shell script to tweaks, privacy and usability of macOS.</div>
   <div>Gatekeeper configuration, network testing, application uninstallation.</div>
 <p>
-  
-  <!-- Status badges -->
+
+<!-- Status badges -->
 
 <p align="left">
   <a href="https://github.com/Oleg-Chashko/SSToolbox/releases/latest">

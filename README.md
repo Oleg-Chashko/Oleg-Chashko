@@ -9,8 +9,8 @@
     <p>
     <h3>&#8680; SSToolbox - Toolkit for managing your macOS</h3>
   </cite></a>
-<div>With SSToolbox you can compress as many files as you want in a bunch of formats.</div>
-<div>You can also encrypt them to store and share securely and with privacy.</div>
+<div>A GUI for using Shell script to tweaks, privacy and usability of macOS.</div>
+<div>Gatekeeper configuration, network testing, application uninstallation.</div>
 <p>
 
   <!-- Status badges -->

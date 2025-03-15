@@ -3,7 +3,7 @@
 <!-- 1.Project -->
 
 <img width="160" height="160" src="https://raw.githubusercontent.com/Oleg-Chashko/SSToolbox/main/Images/SSToolbox_logo.png" align="left"/></a>
-  <b><a href="https://github.com/Oleg-Chashko/SSToolbox">&#8680; SSToolbox - Toolkit for managing your macOS</a></b>
+  <a href="https://github.com/Oleg-Chashko/SSToolbox"><em><strong>&#8680; SSToolbox - Toolkit for managing your macOS</strong></em></a>
   <div>A GUI for using Shell script to tweaks, privacy and usability of macOS.</div>
   <div>Gatekeeper configuration, network testing, application uninstallation.</div>
 <p>
@@ -45,7 +45,7 @@
 <!-- 2.Project -->
 
 <!-- <img width="160" height="160" src="https://raw.githubusercontent.com/Oleg-Chashko/SSToolbox/main/Images/SSToolbox_logo.png" align="left"/></a>
-  <b><a href="https://github.com/Oleg-Chashko/SSToolbox">&#8680; SSToolbox - Toolkit for managing your macOS</a></b>
+  <a href="https://github.com/Oleg-Chashko/SSToolbox"><em><strong>&#8680; SSToolbox - Toolkit for managing your macOS</strong></em></a>
   <div>A GUI for using Shell script to tweaks, privacy and usability of macOS.</div>
   <div>Gatekeeper configuration, network testing, application uninstallation.</div>
 <p>

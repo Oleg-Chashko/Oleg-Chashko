@@ -111,15 +111,15 @@
     <a href="https://de.linkedin.com/company/vodafone">
       <img alt="LinkedIn"
         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-3567AD?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://www.facebook.com/vodafoneDE/">
-        <img alt="Facebook"
-          src="https://img.shields.io/badge/Facebook-3567AD?style=for-the-badge&logo=facebook&logoColor=white"></a>
-      <a href="https://x.com/vodafone_de/">
-        <img alt="Twitter"
-          src="https://img.shields.io/badge/Twitter-3567AD?style=for-the-badge&logo=x&logoColor=white"></a>
-      <a href="https://www.reddit.com/r/germany/">
-        <img alt="Reddit"
-          src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white"></a>
+    <a href="https://www.facebook.com/vodafoneDE/">
+      <img alt="Facebook"
+        src="https://img.shields.io/badge/Facebook-3567AD?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <a href="https://x.com/vodafone_de/">
+      <img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-3567AD?style=for-the-badge&logo=x&logoColor=white"></a>
+    <a href="https://www.reddit.com/r/germany/">
+      <img alt="Reddit"
+        src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </details>
 
 <details>
@@ -135,7 +135,8 @@
       <img alt="MasterCard"
         src="https://img.shields.io/badge/MasterCard-EB001B?style=for-the-badge&logo=mastercard&logoColor=fff"></a>
     <a href="https://visa.com/">
-      <img alt="Visa" src="https://img.shields.io/badge/Visa-1A1F71?style=for-the-badge&logo=visa&logoColor=fff"></a>
+      <img alt="Visa"
+        src="https://img.shields.io/badge/Visa-1A1F71?style=for-the-badge&logo=visa&logoColor=fff"></a>
 </details>
 
 <details>
@@ -179,5 +180,5 @@
   <summary>Visitors count:</summary>
   <div align="center">
     <img alt="oleg-chashko"
-  src="https://komarev.com/ghpvc/?username=oleg-chashko&style=for-the-badge"></a>
+      src="https://komarev.com/ghpvc/?username=oleg-chashko&style=for-the-badge"></a>
 </details>

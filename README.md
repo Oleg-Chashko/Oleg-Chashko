@@ -4,11 +4,7 @@
 
 <img width="160" height="160"
   src="https://raw.githubusercontent.com/Oleg-Chashko/SSToolbox/main/Images/SSToolbox_logo.png" align="left" /></a>
-<a href="https://github.com/Oleg-Chashko/SSToolbox">
-  <cite>
-    <p>
-    <h3>&#8680; SSToolbox - Toolkit for managing your macOS</h3>
-  </cite></a>
+  [***_`SSToolbox - Toolkit for managing your macOS`_***](https://github.com/Oleg-Chashko/SSToolbox)
 <div>A GUI for using Shell script to tweaks, privacy and usability of macOS.</div>
 <div>Gatekeeper configuration, network testing, application uninstallation.</div>
 <p>
@@ -51,13 +47,9 @@
 
 <!-- <img width="160" height="160"
   src="https://raw.githubusercontent.com/Oleg-Chashko/SSToolbox/main/Images/SSToolbox_logo.png" align="left" /></a>
-<a href="https://github.com/Oleg-Chashko/SSToolbox">
-  <cite>
-    <p>
-    <h3>&#8680; SSToolbox - Toolkit for managing your macOS</h3>
-  </cite></a>
-<div>With SSToolbox you can compress as many files as you want in a bunch of formats.</div>
-<div>You can also encrypt them to store and share securely and with privacy.</div>
+  [***_`SSToolbox - Toolkit for managing your macOS`_***](https://github.com/Oleg-Chashko/SSToolbox)
+<div>A GUI for using Shell script to tweaks, privacy and usability of macOS.</div>
+<div>Gatekeeper configuration, network testing, application uninstallation.</div>
 <p>
 
 <!-- Status badges -->
@@ -189,5 +181,5 @@
 
 <h4 align="center">Visitors count</h4>
 <div align="center">
-  <img width="250" src="https://profile-counter.glitch.me/oleg-chashko/count.svg" />
+  <img width="200" src="https://profile-counter.glitch.me/oleg-chashko/count.svg" />
   </p>
